@@ -36,7 +36,7 @@ def test_post_json_login(pub_data):
   "userName": "nanakasu11"
 }
     '''
-    status_code = 200  # 响应状态码
+    status_code = 200  # 响应状态码111
     expect = "2000"  # 预期结果
     # --------------------分界线，下边的不要修改-----------------------------------------
     # method,pub_data和url为必传字段
